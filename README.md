@@ -79,12 +79,13 @@ To run these OpenGL projects, you'll need to have the following installed on you
     ./<output_file_name>
     ```
 ## Project Structure
-
+  ```bash
   .
   ├── bezier_square.cpp       # Bezier Curve animation for moving square
   ├── rotating_rings.cpp      # Rotating 3D rings with keyboard control
   ├── moving_square.cpp       # Simple 2D square animation
   └── README.md               # Project documentation
+  ```
 
 ## License
 
